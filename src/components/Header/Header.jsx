@@ -39,10 +39,10 @@ const Header = () => {
       <Container>
         <div className="navigation d-flex align-items-center justify-content-between">
           <div className="logo">
-            <h2 className=" d-flex align-items-center gap-1">
-              {/* <i class="ri-pantone-line"></i> */}
-              <img src={logo} width={250} height={200} />
-            </h2>
+          <h2 className=" d-flex align-items-center gap-1">
+  <img src={logo} width={250} height={200} alt="CodeNest logo" />
+</h2>
+
           </div>
 
           <div className="nav d-flex align-items-center gap-5">
@@ -58,7 +58,8 @@ const Header = () => {
 
             <div className="nav__right">
               <p className="mb-0 d-flex align-items-center gap-2">
-                <i class="ri-phone-line"></i> 
+              <i className="ri-phone-line"></i>
+
                <h3 className="phone" >+37493470840</h3> 
               </p>
             </div>

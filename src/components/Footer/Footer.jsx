@@ -59,32 +59,33 @@ const Footer = () => {
            
 
             <div className="follows">
-            <img src={logo} width={150} height={150} /><br/>
+            <img src={logo} width={150} height={150} alt="CodeNest logo" />
+            <br/>
               <span>
                 {" "}
                 <a href="facebook.com">
-                  <i class="ri-facebook-line"></i>
+                  <i className="ri-facebook-line"></i>
                 </a>
               </span>
 
               <span>
                 {" "}
                 <a href="https://www.instagram.com/codenest.engineering/">
-                  <i class="ri-instagram-line"></i>
+                  <i className="ri-instagram-line"></i>
                 </a>
               </span>
 
               <span>
                 {" "}
                 <a href="facebook.com">
-                  <i class="ri-linkedin-line"></i>
+                  <i className="ri-linkedin-line"></i>
                 </a>
               </span>
 
               <span>
                 {" "}
                 <a href="facebook.com">
-                  <i class="ri-twitter-line"></i>
+                  <i className="ri-twitter-line"></i>
                 </a>
               </span>
             </div>
