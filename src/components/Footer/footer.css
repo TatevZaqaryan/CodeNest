@@ -1,0 +1,30 @@
+.footer {
+  background: white;
+  
+}
+.footer h6{
+  color: #ff914d;
+}
+.footer p{
+  color: #38b6ff;
+}
+.follows span a {
+  text-decoration: none;
+}
+
+.follows span {
+  margin-right: 20px;
+}
+
+.link__list .link__item {
+  background: transparent;
+}
+
+.link__list a {
+  text-decoration: none;
+  color: #38b6ff;
+  font-weight: 500;
+}
+.link__list a:hover {
+  color: #ff914d;
+}
