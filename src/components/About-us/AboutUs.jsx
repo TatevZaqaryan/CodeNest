@@ -2,7 +2,7 @@ import React from "react";
 import "./about.css";
 import { Container, Row, Col } from "reactstrap";
 import aboutImg from "../../assests/images/kids.jpeg";
-import CountUp from "react-countup";
+
 import "./about.css";
 
 const AboutUs = () => {

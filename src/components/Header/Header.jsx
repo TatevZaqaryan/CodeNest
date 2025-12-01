@@ -3,7 +3,7 @@ import { Container } from "reactstrap";
 import "./header.css";
 import logo from "../../assests/images/CodeNest.png";
 import { Link } from "react-router-dom";
-import AboutUs from "../About-us/AboutUs";
+
 
 const navLinks = [
   {
