@@ -5,7 +5,7 @@ import AboutUs from "../components/About-us/AboutUs";
 import Courses from "../components/Courses-section/Courses";
 import Footer from "../components/Footer/Footer";
 import Header from "../components/Header/Header";
-import About from "./About";
+
 
 const App = () => {
   return (
